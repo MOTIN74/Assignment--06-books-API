@@ -1,5 +1,7 @@
 /* custom css  */
-
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Poppins', sans-serif;
+}
 body{
     background-image: linear-gradient(135deg, #eaedf3 0%, #1b1d20 100%);
 
